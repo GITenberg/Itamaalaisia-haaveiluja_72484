@@ -1,0 +1,30 @@
+_repo: Itamaalaisia-haaveiluja_72484
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hedman, Valfrid
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '46070'
+    url: http://www.gutenberg.org/2009/agents/46070
+    wikipedia: https://fi.wikipedia.org/wiki/Valfrid_Hedman
+description: ''
+gutenberg_issued: '2023-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72484'
+language: fi
+pgterms:marc905: 20231219093517hedman
+pgterms:marc906: '1906'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aHelsinki :$bKust.Oy Osmo, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish poetry'
+- !lcc 'PH'
+- GITenberg
+title: Itämaalaisia haaveiluja
+url: http://www.gutenberg.org/ebooks/72484
